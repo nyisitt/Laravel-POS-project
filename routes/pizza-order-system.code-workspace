@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/00_Customer Panel-20230918T045939Z-001"
+		},
+		{
+			"path": "../../../../Downloads/00_Admin Dashboard-20230918T045900Z-001"
+		},
+		{
+			"path": "../../00_Admin Dashboard"
+		},
+		{
+			"path": "../../../../Downloads/00_Admin_Dashboard(Original)-20230920T064230Z-001"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "00_Admin Dashboard-20230918T045900Z-001"
+	}
+}
